@@ -17,10 +17,10 @@ My research focuses on video understanding, video reasoning, and causal reasonin
 1. China National Scholarship 2021
 2. China National Scholarship 2022
 
-## Paper
+## Publication
 1. NeurIPS 2024 (**Spotlight**)
 title: MECD: Unlocking Multi-Event Causal Discovery in Video Reasoning
 Author: **Tieyuan Chen**, Huabin Liu, Tianyao He, Yihang Chen, Chaofan Gan, Xiao Ma, Cheng Zhong, Yang Zhang, Yingxue Wang, Hui Lin, Weiyao Lin
+[Paper]:(https://arxiv.org/abs/2409.17647)
+[Code]:(https://github.com/tychen-SJTU/MECD-Benchmark)
 
-
-He published a paper (Spotlight) as the first author at NeurIPS 2024.
