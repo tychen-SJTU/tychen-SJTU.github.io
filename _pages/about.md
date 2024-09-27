@@ -18,13 +18,14 @@ My research focuses on Video Understanding, Video Reasoning, and Causal Reasonin
 If you are interested in my work or research direction, please do not hesitate to contact [me](tieyuanchen@sjtu.edu.cn).
 
 ## Award
-1. China National Scholarship 2021.
-2. China National Scholarship 2022.
-3. Sichuan University Comprehensive First Prize Scholarship 2022 (**Top 1‰**).
-4. Sichuan University Hundred Excellent Student 2022.
+1. China National Scholarship. 2021.
+2. China National Scholarship. 2022.
+3. Sichuan University Comprehensive First Prize Scholarship. 2022 (**Top 1‰**).
+4. Sichuan University Hundred Excellent Student. 2022.
+5. Sichuan Province Outstanding Graduate. 2023.
 
 ## Publication
-1. NeurIPS 2024 (**Spotlight**) MECD: Unlocking Multi-Event Causal Discovery in Video Reasoning
+1. NeurIPS. 2024 (**Spotlight**) MECD: Unlocking Multi-Event Causal Discovery in Video Reasoning
 
    **Tieyuan Chen**, Huabin Liu, Tianyao He, Yihang Chen, Chaofan Gan, Xiao Ma, Cheng Zhong, Yang Zhang, Yingxue Wang, Hui Lin, Weiyao Lin
 
