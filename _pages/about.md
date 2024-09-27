@@ -13,9 +13,9 @@ Beforehand, I obtained a bachelor degree from [Sichuan University](https://en.sc
 [CEIE](https://eie.scu.edu.cn/eneieen/) (**rank 1/29**) 
 with the guidance of [Prof.Yuanping Zhou](https://ieeexplore.ieee.org/author/37592209200).
 
-My research focuses on Video Understanding, Video Reasoning, and Causal Reasoning. 
+My research focuses on Video Understanding, Video Reasoning, and Causal Discovery. 
 
-If you are interested in my work or reasoning, please do not hesitate to contact [me](tieyuanchen@sjtu.edu.cn).
+If you are interested in my research, please do not hesitate to contact [me](tieyuanchen@sjtu.edu.cn).
 
 ## Honors and Awards
 1. China National Scholarship. 2021.(**Top 1%**)
@@ -23,6 +23,7 @@ If you are interested in my work or reasoning, please do not hesitate to contact
 3. Sichuan University Comprehensive First Prize Scholarship. 2022.(**Top 1‰**).
 4. Sichuan University Hundred Excellent Student. 2022.
 5. Sichuan Province Outstanding Graduate. 2023.
+6. Chinese patent CN214550714U, CN21648096U
 
 ## Publication
 1. NeurIPS. 2024 (**Spotlight**) MECD: Unlocking Multi-Event Causal Discovery in Video Reasoning
