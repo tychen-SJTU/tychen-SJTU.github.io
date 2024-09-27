@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "personal websites"
+title: "Welcome to TieyuanChen's homepage!"
 author_profile: true
 redirect_from: 
   - /about/
