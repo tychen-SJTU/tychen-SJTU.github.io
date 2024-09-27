@@ -7,4 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Chen Tieyuan, who graduated with a bachelor's degree from Sichuan University in 2022, is currently (2023-present) pursuing a doctoral degree at Shanghai Jiao Tong University, under the guidance of Professor Weiyao Lin. His research focuses on video understanding, video reasoning, and causal reasoning. He published a paper (Spotlight) as the first author at NeurIPS 2024.
+Helloo! My name is Tieyuan Chen, is currently (2023-present) pursuing a doctoral degree at Shanghai Jiao Tong University, 
+under the guidance of Professor Weiyao Lin. 
+His research focuses on video understanding, video reasoning, and causal reasoning. 
+He published a paper (Spotlight) as the first author at NeurIPS 2024.
