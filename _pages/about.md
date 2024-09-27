@@ -15,7 +15,7 @@ with the guidance of [Prof.Yuanping Zhou](https://ieeexplore.ieee.org/author/375
 
 My research focuses on Video Understanding, Video Reasoning, and Causal Reasoning. 
 
-If you are interested in my work or research direction, please do not hesitate to contact [me](tieyuanchen@sjtu.edu.cn).
+If you are interested in my work or reasoning, please do not hesitate to contact [me](tieyuanchen@sjtu.edu.cn).
 
 ## Honors and Awards
 1. China National Scholarship. 2021.(**Top 1%**)
