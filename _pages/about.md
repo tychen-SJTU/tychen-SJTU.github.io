@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! My name is Tieyuan Chen, is currently (2023-present) pursuing a doctoral degree at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), 
+Hello! My name is Tieyuan Chen, a second year Ph.D. student (2023-present) of [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), 
 under the guidance of Professor [Weiyao Lin](https://weiyaolin.github.io/). 
 Beforehand, I obtained a bachelor's degree from [Sichuan University](https://en.scu.edu.cn/)(2019-2023), 
 studying at the [College of Electronics and Information Engineering](https://eie.scu.edu.cn/eneieen/) 
