@@ -29,6 +29,5 @@ If you are interested in my work or research direction, please do not hesitate t
 
    **Tieyuan Chen**, Huabin Liu, Tianyao He, Yihang Chen, Chaofan Gan, Xiao Ma, Cheng Zhong, Yang Zhang, Yingxue Wang, Hui Lin, Weiyao Lin
 
-    [Paper](https://arxiv.org/abs/2409.17647), [Code](https://github.com/tychen-SJTU/MECD-Benchmark)
-
    ![Image 1](main_mecd.png)
+   [Paper](https://arxiv.org/abs/2409.17647), [Code](https://github.com/tychen-SJTU/MECD-Benchmark)
