@@ -18,7 +18,7 @@ My research focuses on Video Understanding, Video Reasoning, and Causal Reasonin
 
 If you are interested in my work or research direction, please do not hesitate to contact [me](tieyuanchen@sjtu.edu.cn).
 
-## Award
+## Honors and Awards
 1. China National Scholarship. 2021.
 2. China National Scholarship. 2022.
 3. Sichuan University Comprehensive First Prize Scholarship. 2022 (**Top 1‰**).
