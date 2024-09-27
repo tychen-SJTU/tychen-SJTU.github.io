@@ -31,3 +31,4 @@ If you are interested in my work or research direction, please do not hesitate t
 
     [Paper](https://arxiv.org/abs/2409.17647), [Code](https://github.com/tychen-SJTU/MECD-Benchmark)
 
+   ![Image 1](main_mecd.png)
