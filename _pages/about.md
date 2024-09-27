@@ -11,7 +11,8 @@ Hello! My name is Tieyuan Chen, a second year Ph.D. student (2023-present) of [S
 under the guidance of Prof.[Weiyao Lin](https://weiyaolin.github.io/). 
 Beforehand, I obtained a bachelor's degree from [Sichuan University](https://en.scu.edu.cn/)(2019-2023), 
 studying at the [College of Electronics and Information Engineering](https://eie.scu.edu.cn/eneieen/) 
-in the Outstanding Engineer Class of Communication Engineering(**rank 1/29**) with the guidance of Prof.Yuanping Zhou.
+in the Outstanding Engineer Class of Communication Engineering(**rank 1/29**) 
+with the guidance of [Prof.Yuanping Zhou](https://ieeexplore.ieee.org/author/37592209200).
 
 My research focuses on Video Understanding, Video Reasoning, and Causal Reasoning. 
 
