@@ -25,7 +25,7 @@ author:
   name             : "Tieyuan Chen"
   pronouns         : # example: "she/her"  
   bio              : "Phd.Candidate"
-  location         : "Shanghai"
+  location         : "Shanghai, China"
   employer         : "Shanghai Jiao Tong University"
   uri              : # URL
   email            : "tieyuanchen@sjtu.edu.cn"
@@ -71,7 +71,7 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : # URL
+  zhihu            : "https://www.zhihu.com/people/ta-yin-53-17"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
