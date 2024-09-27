@@ -15,6 +15,8 @@ in the Outstanding Engineer Class of Communication Engineering(rank 1/29).
 
 My research focuses on Video Understanding, Video Reasoning, and Causal Reasoning. 
 
+If you are interested in my work or research direction, please do not hesitate to contact [me](tieyuanchen@sjtu.edu.cn).
+
 ## Award
 1. China National Scholarship 2021.
 2. China National Scholarship 2022.
