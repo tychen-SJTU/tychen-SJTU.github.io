@@ -20,7 +20,10 @@ My research focuses on video understanding, video reasoning, and causal reasonin
 ## Publication
 1. NeurIPS 2024 (**Spotlight**)
 title: MECD: Unlocking Multi-Event Causal Discovery in Video Reasoning
+
 Author: **Tieyuan Chen**, Huabin Liu, Tianyao He, Yihang Chen, Chaofan Gan, Xiao Ma, Cheng Zhong, Yang Zhang, Yingxue Wang, Hui Lin, Weiyao Lin
+
 [Paper]:(https://arxiv.org/abs/2409.17647)
+
 [Code]:(https://github.com/tychen-SJTU/MECD-Benchmark)
 
