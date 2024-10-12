@@ -19,7 +19,7 @@ If you are interested in my research, please do not hesitate to contact [me](tie
 ## 🥇 Honors and Awards
 1. China National Scholarship. 2021.(**Top 1%**)
 2. China National Scholarship. 2022.(**Top 1%**)
-3. Sichuan University Comprehensive First Prize Scholarship. 2022.(**Top 1‰**).
+3. Sichuan University Comprehensive Special Scholarship. 2022.(**Top 1‰**).
 4. Sichuan University Hundred Excellent Student. 2022.
 5. Sichuan Province Outstanding Graduate. 2023.
 6. Chinese patent CN214550714U, CN21648096U
