@@ -33,7 +33,9 @@ If you are interested in my research, please do not hesitate to contact [me](tie
    
    [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/mecd-unlocking-multi-event-causal-discovery/causal-discovery-in-video-reasoning-on-mecd)](https://paperswithcode.com/sota/causal-discovery-in-video-reasoning-on-mecd?p=mecd-unlocking-multi-event-causal-discovery)
 
-   [Paper](https://arxiv.org/abs/2409.17647), [Code](https://github.com/tychen-SJTU/MECD-Benchmark), 
+   [![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/tychen-SJTU/MECD-Benchmark) 
+   
+   [![arXiv](https://img.shields.io/badge/Arxiv-2311.10122-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2409.17647)
 
 
 ## 📊 Service
