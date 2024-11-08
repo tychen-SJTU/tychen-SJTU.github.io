@@ -25,7 +25,7 @@ If you are interested in my research, please do not hesitate to contact [me](tie
 6. Chinese patent CN214550714U, CN21648096U
 
 ## 📃 Publication
-1. NeurIPS. 2024 (**Spotlight**) MECD: Unlocking Multi-Event Causal Discovery in Video Reasoning
+1. NeurIPS. 2024 (**spotlight, Top2.4%**) MECD: Unlocking Multi-Event Causal Discovery in Video Reasoning
 
    ![Image 1](main_mecd.png)
 
