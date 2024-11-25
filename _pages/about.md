@@ -37,4 +37,4 @@ If you are interested in my research, please do not hesitate to contact [me](tie
 
 
 ## 📊 Service
-Reviewer: ICLR 2025, CVPR2025, JVCI
+Reviewer: ICLR 2025, CVPR 2025, JVCI
