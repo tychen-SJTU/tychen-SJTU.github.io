@@ -48,7 +48,7 @@ If you are interested in my research, please do not hesitate to contact [me](tie
    [![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/tychen-SJTU/MECD-Benchmark)
    [![arXiv](https://img.shields.io/badge/Arxiv-2501.07227-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2501.07227)
 
-3. T-CSVT IEEE-Transactions on Circuits and Systems for Video Technology. (Under Revision)
+3. T-CSVT IEEE-Transactions on Circuits and Systems for Video Technology.
 
    CSTA: Spatial-Temporal Causal Adaptive Learning for Exemplar-Free Video Class-Incremental Learning
 
