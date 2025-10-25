@@ -34,8 +34,7 @@ If you are interested in my research, please do not hesitate to contact [me](tie
    ![Image 1](main_mecd.png)
 
    **Tieyuan Chen**, Huabin Liu, Tianyao He, Yihang Chen, Chaofan Gan, Xiao Ma, Cheng Zhong, Yang Zhang, Yingxue Wang, Hui Lin, Weiyao Lin
-   
-   [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/mecd-unlocking-multi-event-causal-discovery/causal-discovery-in-video-reasoning-on-mecd)](https://paperswithcode.com/sota/causal-discovery-in-video-reasoning-on-mecd?p=mecd-unlocking-multi-event-causal-discovery)
+
    [![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/tychen-SJTU/MECD-Benchmark)
    [![arXiv](https://img.shields.io/badge/Arxiv-2409.17647-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2409.17647)
 
