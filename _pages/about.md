@@ -14,7 +14,7 @@ Beforehand, I obtained a bachelor degree from [Sichuan University](https://en.sc
 
 I am also with Beijing Zhongguancun Academy and Alibaba AntGroup as RI.
 
-My research focuses on Video Understanding, Video Reasoning, and Causal Discovery. 
+My research focuses on Video Understanding, LLMs & MLLMs, and Video Reasoning. 
 
 If you are interested in my research, please do not hesitate to contact [me](tieyuanchen@sjtu.edu.cn).
 
@@ -26,7 +26,7 @@ If you are interested in my research, please do not hesitate to contact [me](tie
 5. Sichuan Province Outstanding Graduate. 2023.(**Top 3%**)
 6. Chinese patent CN214550714U, CN21648096U
 
-## 📃 Publication
+## 📃 First Author Publication
 1. NeurIPS. 2024 (**spotlight, Top2.4%**) 
    
    MECD: Unlocking Multi-Event Causal Discovery in Video Reasoning
@@ -62,4 +62,4 @@ If you are interested in my research, please do not hesitate to contact [me](tie
 
 
 ## 📊 Service
-Reviewer: ICLR 2025, CVPR 2025, ICCV 2025, NeurIPS 2025, AAAI 2025, ICME 2025, PRCV 2025, JVCI, SPIC
+Reviewer: ICLR 2026, ICLR 2025, CVPR 2025, ICCV 2025, NeurIPS 2025, AAAI 2025, ICME 2025, PRCV 2025, JVCI, SPIC
