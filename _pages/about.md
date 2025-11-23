@@ -24,7 +24,6 @@ If you are interested in my research, please do not hesitate to contact [me](tie
 3. Sichuan University Comprehensive Special Scholarship. 2022.(**Top 1‰**)
 4. Sichuan University Hundred Excellent Student. 2022.(**Top 2‰**)
 5. Sichuan Province Outstanding Graduate. 2023.(**Top 3%**)
-6. Chinese patent CN214550714U, CN21648096U
 
 ## 📃 First Author Publication
 1. NeurIPS. 2024 (**spotlight, Top2.4%**) 
@@ -62,4 +61,4 @@ If you are interested in my research, please do not hesitate to contact [me](tie
 
 
 ## 📊 Service
-Reviewer: ICLR 2026, ICLR 2025, CVPR 2025, ICCV 2025, NeurIPS 2025, AAAI 2025, ICME 2025, PRCV 2025, JVCI, SPIC
+Reviewer: ICLR 2026, CVPR 2026, ICLR 2025, CVPR 2025, ICCV 2025, NeurIPS 2025, AAAI 2025, ICME 2025, PRCV 2025, JVCI, SPIC
