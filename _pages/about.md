@@ -31,7 +31,7 @@ redirect_from:
 }
 
 .pub-img {
-    flex: 0 0 220px; /* 固定图片宽度 */
+    flex: 0 0 220px;
     width: 220px;
 }
 
@@ -40,6 +40,8 @@ redirect_from:
     border-radius: 8px;
     box-shadow: 0 4px 6px rgba(0,0,0,0.1);
     transition: transform 0.2s;
+    /* 核心修复：确保图片按比例缩放，防止变形 */
+    object-fit: cover; 
 }
 
 .pub-img img:hover {
@@ -59,7 +61,7 @@ redirect_from:
 }
 
 .pub-venue {
-    color: #c0392b; /* 会议名称颜色 */
+    color: #c0392b;
     font-weight: bold;
     font-style: italic;
     margin-bottom: 5px;
@@ -117,7 +119,8 @@ If you are interested in my research or potential collaborations, please feel fr
 <!-- Paper 1: NeurIPS 2024 -->
 <div class="pub-card">
   <div class="pub-img">
-    <img src="main_mecd.png" alt="MECD">
+    <!-- 路径修复：使用了 /images/ 开头的绝对路径 -->
+    <img src="/images/main_mecd.png" alt="MECD">
   </div>
   <div class="pub-content">
     <div class="pub-title">MECD: Unlocking Multi-Event Causal Discovery in Video Reasoning</div>
@@ -135,7 +138,7 @@ If you are interested in my research or potential collaborations, please feel fr
 <!-- Paper 2: ICLR 2026 -->
 <div class="pub-card">
   <div class="pub-img">
-    <img src="main_dnd.png" alt="DND">
+    <img src="/images/main_dnd.png" alt="DND">
   </div>
   <div class="pub-content">
     <div class="pub-title">DND: Boosting Large Language Models with Dynamic Nested Depth</div>
@@ -152,7 +155,7 @@ If you are interested in my research or potential collaborations, please feel fr
 <!-- Paper 3: T-PAMI -->
 <div class="pub-card">
   <div class="pub-img">
-    <img src="main_mecd2.png" alt="MECD+">
+    <img src="/images/main_mecd2.png" alt="MECD+">
   </div>
   <div class="pub-content">
     <div class="pub-title">MECD+: Unlocking Event-Level Causal Graph Discovery for Video Reasoning</div>
@@ -170,7 +173,7 @@ If you are interested in my research or potential collaborations, please feel fr
 <!-- Paper 4: T-CSVT -->
 <div class="pub-card">
   <div class="pub-img">
-    <img src="main_csta.png" alt="CSTA">
+    <img src="/images/main_csta.png" alt="CSTA">
   </div>
   <div class="pub-content">
     <div class="pub-title">CSTA: Spatial-Temporal Causal Adaptive Learning for Exemplar-Free Video Class-Incremental Learning</div>
