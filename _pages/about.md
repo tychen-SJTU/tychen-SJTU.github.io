@@ -9,7 +9,8 @@ redirect_from:
 
 ## 👋 About Me
 
-Hello! I am **Tieyuan Chen**, a second-year Ph.D. student (2023–present) at **[Shanghai Jiao Tong University](https://en.sjtu.edu.cn/)**, **[School of Electronic Information and Electrical Engineering (SEIEE)](https://english.seiee.sjtu.edu.cn/)**, advised by Prof. **[Weiyao Lin](https://weiyaolin.github.io/)**.
+Hello! I am **Tieyuan Chen**, a third-year Ph.D. student (2023–present) at **[Shanghai Jiao Tong University](https://en.sjtu.edu.cn/)**, **[School of Electronic Information and Electrical Engineering (SEIEE)](https://english.seiee.sjtu.edu.cn/)**, advised by Prof. **[Weiyao Lin](https://weiyaolin.github.io/)**. To date, during my Ph.D. studies, I have published **four first-author papers**, including top-tier venues such as **T-PAMI, ICLR, NeurIPS, and T-CSVT**.
+
 
 Previously, I received my B.Eng. degree from **[Sichuan University](https://en.scu.edu.cn/)**, **[College of Electronics and Information Engineering (CEIE)](https://eie.scu.edu.cn/eneieen/)** (2019–2023), ranking **1 / 29**.
 
