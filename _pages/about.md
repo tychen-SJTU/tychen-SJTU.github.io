@@ -63,7 +63,7 @@ Xiao Ma, Cheng Zhong, Yang Zhang, Yingxue Wang, Hui Lin, Weiyao Lin
 
 ---
 
-### 🔵 **ICLR 2026**
+### 🟣 **ICLR 2026**
 **DND: Boosting Large Language Models with Dynamic Nested Depth**
 
 ![DND](main_dnd.png)
