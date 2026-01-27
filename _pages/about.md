@@ -50,7 +50,7 @@ My research focuses on:
 
 ---
 
-### 🟢 **NeurIPS 2024 (Spotlight, Top 2.4%)**
+### 🟣 **NeurIPS 2024 (Spotlight, Top 2.4%)**
 **MECD: Unlocking Multi-Event Causal Discovery in Video Reasoning**
 
 ![MECD](main_mecd.png)
@@ -88,7 +88,7 @@ Tianyao He, Chaofan Gan, Huanyu He, Weiyao Lin
 
 ---
 
-### 🟠 **IEEE T-CSVT**
+### 🟣 **IEEE T-CSVT**
 **CSTA: Spatial-Temporal Causal Adaptive Learning for Exemplar-Free Video Class-Incremental Learning**
 
 ![CSTA](main_csta.png)
