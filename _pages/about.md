@@ -10,13 +10,11 @@ redirect_from:
 ## 👋 About Me
 
 Hello! I am **Tieyuan Chen**, a second-year Ph.D. student (2023–present) at  
-**[Shanghai Jiao Tong University](https://en.sjtu.edu.cn/)**,  
-**[School of Electronic Information and Electrical Engineering (SEIEE)](https://english.seiee.sjtu.edu.cn/)**,  
+**[Shanghai Jiao Tong University](https://en.sjtu.edu.cn/)**, **[School of Electronic Information and Electrical Engineering (SEIEE)](https://english.seiee.sjtu.edu.cn/)**,  
 advised by Prof. **[Weiyao Lin](https://weiyaolin.github.io/)**.
 
 Previously, I received my B.Eng. degree from  
-**[Sichuan University](https://en.scu.edu.cn/)**,  
-**[College of Electronics and Information Engineering (CEIE)](https://eie.scu.edu.cn/eneieen/)**  
+**[Sichuan University](https://en.scu.edu.cn/)**, **[College of Electronics and Information Engineering (CEIE)](https://eie.scu.edu.cn/eneieen/)**  
 (2019–2023), ranking **1 / 29**.
 
 I am also a Research Intern (RI) at **Beijing Zhongguancun Academy** and **Alibaba Ant Group**.
