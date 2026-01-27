@@ -117,7 +117,7 @@ If you are interested in my research, please do not hesitate to contact [me](mai
 <div class="pub-card">
   <div class="pub-img">
     <!-- 这里直接用了文件名，和老版逻辑一致 -->
-    <img src="../main_mecd.png" alt="MECD">
+    <img src="{{ site.baseurl }}/main_mecd.png" alt="MECD">
   </div>
   <div class="pub-content">
     <div class="pub-title">MECD: Unlocking Multi-Event Causal Discovery in Video Reasoning</div>
@@ -135,7 +135,7 @@ If you are interested in my research, please do not hesitate to contact [me](mai
 <!-- Paper 2 -->
 <div class="pub-card">
   <div class="pub-img">
-    <img src="../main_dnd.png" alt="DND">
+    <img src="{{ site.baseurl }}/main_dnd.png" alt="DND">
   </div>
   <div class="pub-content">
     <div class="pub-title">DND: Boosting Large Language Models with Dynamic Nested Depth</div>
@@ -152,7 +152,7 @@ If you are interested in my research, please do not hesitate to contact [me](mai
 <!-- Paper 3 -->
 <div class="pub-card">
   <div class="pub-img">
-    <img src="../main_mecd2.png" alt="MECD+">
+    <img src="{{ site.baseurl }}/main_mecd2.png" alt="MECD+">
   </div>
   <div class="pub-content">
     <div class="pub-title">MECD+: Unlocking Event-Level Causal Graph Discovery for Video Reasoning</div>
@@ -170,7 +170,7 @@ If you are interested in my research, please do not hesitate to contact [me](mai
 <!-- Paper 4 -->
 <div class="pub-card">
   <div class="pub-img">
-    <img src="../main_csta.png" alt="CSTA">
+    <img src="{{ site.baseurl }}/main_csta.png" alt="CSTA">
   </div>
   <div class="pub-content">
     <div class="pub-title">CSTA: Spatial-Temporal Causal Adaptive Learning for Exemplar-Free Video Class-Incremental Learning</div>
