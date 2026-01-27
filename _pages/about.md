@@ -53,7 +53,7 @@ My research focuses on:
 
 ![MECD](main_mecd.png)
 
-**Tieyuan Chen**, Huabin Liu, Tianyao He, Yihang Chen, Chaofan Gan, Xiao Ma, Cheng Zhong, Yang Zhang, Yingxue Wang, Hui Lin, Weiyao Lin
+_**Tieyuan Chen**, Huabin Liu, Tianyao He, Yihang Chen, Chaofan Gan, Xiao Ma, Cheng Zhong, Yang Zhang, Yingxue Wang, Hui Lin, Weiyao Lin_
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/tychen-SJTU/MECD-Benchmark)
 [![arXiv](https://img.shields.io/badge/arXiv-2409.17647-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2409.17647)
@@ -65,7 +65,7 @@ My research focuses on:
 
 ![DND](main_dnd.png)
 
-**Tieyuan Chen**, Xiaodong Chen, Haoxing Chen, Zhenzhong Lan, Weiyao Lin, Jianguo Li
+_**Tieyuan Chen**, Xiaodong Chen, Haoxing Chen, Zhenzhong Lan, Weiyao Lin, Jianguo Li_
 
 [![arXiv](https://img.shields.io/badge/arXiv-2510.11001-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2510.11001)
 
@@ -76,7 +76,7 @@ My research focuses on:
 
 ![MECD+](main_mecd2.png)
 
-**Tieyuan Chen**, Huabin Liu, Yi Wang, Yihang Chen, Tianyao He, Chaofan Gan, Huanyu He, Weiyao Lin
+_**Tieyuan Chen**, Huabin Liu, Yi Wang, Yihang Chen, Tianyao He, Chaofan Gan, Huanyu He, Weiyao Lin_
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/tychen-SJTU/MECD-Benchmark)
 [![arXiv](https://img.shields.io/badge/arXiv-2501.07227-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2501.07227)
@@ -88,7 +88,7 @@ My research focuses on:
 
 ![CSTA](main_csta.png)
 
-**Tieyuan Chen**, Huabin Liu, Chern Hong Lim, John See, Xing Gao, Junhui Hou, Weiyao Lin
+_**Tieyuan Chen**, Huabin Liu, Chern Hong Lim, John See, Xing Gao, Junhui Hou, Weiyao Lin_
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/tychen-SJTU/CSTA)
 [![arXiv](https://img.shields.io/badge/arXiv-2501.07236-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2501.07236)
