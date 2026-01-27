@@ -26,35 +26,45 @@ If you are interested in my research, please do not hesitate to contact [me](tie
 5. Sichuan Province Outstanding Graduate. 2023.(**Top 3%**)
 
 ## 📃 First Author Publication
-1. NeurIPS. 2024 (**spotlight, Top2.4%**) 
+1. **_NeurIPS_**, Neural Information Processing Systems 2024 (**_spotlight, Top2.4%_**).
    
    MECD: Unlocking Multi-Event Causal Discovery in Video Reasoning
 
    ![Image 1](main_mecd.png)
 
-   **Tieyuan Chen**, Huabin Liu, Tianyao He, Yihang Chen, Chaofan Gan, Xiao Ma, Cheng Zhong, Yang Zhang, Yingxue Wang, Hui Lin, Weiyao Lin
+   **_Tieyuan Chen_**, Huabin Liu, Tianyao He, Yihang Chen, Chaofan Gan, Xiao Ma, Cheng Zhong, Yang Zhang, Yingxue Wang, Hui Lin, Weiyao Lin
 
    [![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/tychen-SJTU/MECD-Benchmark)
    [![arXiv](https://img.shields.io/badge/Arxiv-2409.17647-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2409.17647)
 
-2. T-PAMI IEEE-Transactions on Pattern Analysis and Machine Intelligence.
+2. **_ICLR_**, International Conference on Learning Representations 2026.
+
+   DND: Boosting Large Language Models with Dynamic Nested Depth
+
+   ![Image 1](main_dnd.png)
+
+   **_Tieyuan Chen_**, Xiaodong Chen, Haoxing Chen, Zhenzhong Lan, Weiyao Lin, Jianguo Li
+
+   [![arXiv](https://img.shields.io/badge/Arxiv-2510.11001-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2510.11001)
+
+3. **_T-PAMI_**, IEEE-Transactions on Pattern Analysis and Machine Intelligence.
    
    MECD+: Unlocking Event-Level Causal Graph Discovery for Video Reasoning
 
    ![Image 1](main_mecd2.png)
 
-   **Tieyuan Chen**, Huabin Liu, Yi Wang, Yihang Chen, Tianyao He, Chaofan Gan, Huanyu He, Weiyao Lin
+   **_Tieyuan Chen_**, Huabin Liu, Yi Wang, Yihang Chen, Tianyao He, Chaofan Gan, Huanyu He, Weiyao Lin
 
    [![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/tychen-SJTU/MECD-Benchmark)
    [![arXiv](https://img.shields.io/badge/Arxiv-2501.07227-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2501.07227)
 
-3. T-CSVT IEEE-Transactions on Circuits and Systems for Video Technology.
+4. **_T-CSVT_**, IEEE-Transactions on Circuits and Systems for Video Technology.
 
    CSTA: Spatial-Temporal Causal Adaptive Learning for Exemplar-Free Video Class-Incremental Learning
 
    ![Image 1](main_csta.png)
 
-   **Tieyuan Chen**, Huabin Liu, Chern Hong Lim, John See, Xing Gao, Junhui Hou, Weiyao Lin
+   **_Tieyuan Chen_**, Huabin Liu, Chern Hong Lim, John See, Xing Gao, Junhui Hou, Weiyao Lin
 
    [![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/tychen-SJTU/CSTA)
    [![arXiv](https://img.shields.io/badge/Arxiv-2501.07236-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2501.07236)
@@ -63,7 +73,7 @@ If you are interested in my research, please do not hesitate to contact [me](tie
 ## 📊 Service
 Reviewer: 
 
-Conference 26: ICLR 2026, CVPR 2026, ECCV 2026, ICML 2026, ICME 2026
+Conference 26: ICLR 2026, CVPR 2026, ECCV 2026, ICML 2026, ICME 2026,
 
 Conference 25: ICLR 2025, CVPR 2025, ICCV 2025, NeurIPS 2025, AAAI 2025, ICME 2025, PRCV 2025, 
 
