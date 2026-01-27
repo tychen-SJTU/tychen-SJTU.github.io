@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <style>
-/* 全局样式优化 */
+/* CSS 样式：让页面变美观的核心 */
 .research-tag {
     background-color: #f3f6f9;
     color: #0d6efd;
@@ -23,7 +23,7 @@ redirect_from:
 
 .pub-card {
     display: flex;
-    flex-wrap: wrap;
+    flex-wrap: wrap; /* 允许换行，适配手机 */
     gap: 20px;
     margin-bottom: 30px;
     padding-bottom: 20px;
@@ -31,7 +31,7 @@ redirect_from:
 }
 
 .pub-img {
-    flex: 0 0 220px;
+    flex: 0 0 220px; /* 图片固定宽度 */
     width: 220px;
 }
 
@@ -39,9 +39,8 @@ redirect_from:
     width: 100%;
     border-radius: 8px;
     box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    object-fit: contain; /* 保证图片不被裁切 */
     transition: transform 0.2s;
-    /* 核心修复：确保图片按比例缩放，防止变形 */
-    object-fit: cover; 
 }
 
 .pub-img img:hover {
@@ -49,7 +48,7 @@ redirect_from:
 }
 
 .pub-content {
-    flex: 1;
+    flex: 1; /* 文字占据剩余空间 */
     min-width: 300px;
 }
 
@@ -61,7 +60,7 @@ redirect_from:
 }
 
 .pub-venue {
-    color: #c0392b;
+    color: #c0392b; /* 重点高亮会议颜色 */
     font-weight: bold;
     font-style: italic;
     margin-bottom: 5px;
@@ -79,18 +78,16 @@ redirect_from:
     margin-top: 8px;
 }
 
-/* 移动端适配 */
+/* 手机端适配：图片在文字上方 */
 @media (max-width: 768px) {
     .pub-card { display: block; }
     .pub-img { width: 100%; margin-bottom: 15px; }
 }
 </style>
 
-Hello! I am **Tieyuan Chen (陈铁元)**. 
+Hello! My name is **Tieyuan Chen**, a second year Ph.D. student (2023-present) of [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), [SEIEE](https://english.seiee.sjtu.edu.cn/) under the guidance of Prof. [Weiyao Lin](https://weiyaolin.github.io/). 
 
-I am currently a second-year Ph.D. student (2023-present) at [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), affiliated with [SEIEE](https://english.seiee.sjtu.edu.cn/), under the supervision of Prof. [Weiyao Lin](https://weiyaolin.github.io/). 
-
-Previously, I obtained my Bachelor's degree from [Sichuan University](https://en.scu.edu.cn/) (2019-2023), [CEIE](https://eie.scu.edu.cn/eneieen/), where I ranked **1st/29**. I am also a Research Intern at **Beijing Zhongguancun Academy** and **Alibaba AntGroup**.
+Beforehand, I obtained a bachelor degree from [Sichuan University](https://en.scu.edu.cn/) (2019-2023), [CEIE](https://eie.scu.edu.cn/eneieen/) (**rank 1/29**). I am also with Beijing Zhongguancun Academy and Alibaba AntGroup as RI.
 
 **Research Interests:**
 <div style="margin-top: 5px;">
@@ -100,27 +97,27 @@ Previously, I obtained my Bachelor's degree from [Sichuan University](https://en
 </div>
 
 <br>
-If you are interested in my research or potential collaborations, please feel free to [contact me](mailto:tieyuanchen@sjtu.edu.cn).
+If you are interested in my research, please do not hesitate to contact [me](mailto:tieyuanchen@sjtu.edu.cn).
 
 ---
 
 ## 🥇 Honors and Awards
 
-*   **2021**: China National Scholarship (**Top 1%**)
-*   **2022**: China National Scholarship (**Top 1%**)
-*   **2022**: Sichuan University Comprehensive Special Scholarship (**Top 1‰**)
-*   **2022**: Sichuan University Hundred Excellent Student (**Top 2‰**)
-*   **2023**: Sichuan Province Outstanding Graduate (**Top 3%**)
+*   **2021**: China National Scholarship (**_Top 1%_**)
+*   **2022**: China National Scholarship (**_Top 1%_**)
+*   **2022**: Sichuan University Comprehensive Special Scholarship (**_Top 1‰_**)
+*   **2022**: Sichuan University Hundred Excellent Student (**_Top 2‰_**)
+*   **2023**: Sichuan Province Outstanding Graduate (**_Top 3%_**)
 
 ---
 
 ## 📃 First Author Publications
 
-<!-- Paper 1: NeurIPS 2024 -->
+<!-- Paper 1 -->
 <div class="pub-card">
   <div class="pub-img">
-    <!-- 路径修复：使用了 /images/ 开头的绝对路径 -->
-    <img src="/images/main_mecd.png" alt="MECD">
+    <!-- 这里直接用了文件名，和老版逻辑一致 -->
+    <img src="../main_mecd.png" alt="MECD">
   </div>
   <div class="pub-content">
     <div class="pub-title">MECD: Unlocking Multi-Event Causal Discovery in Video Reasoning</div>
@@ -135,10 +132,10 @@ If you are interested in my research or potential collaborations, please feel fr
   </div>
 </div>
 
-<!-- Paper 2: ICLR 2026 -->
+<!-- Paper 2 -->
 <div class="pub-card">
   <div class="pub-img">
-    <img src="/images/main_dnd.png" alt="DND">
+    <img src="../main_dnd.png" alt="DND">
   </div>
   <div class="pub-content">
     <div class="pub-title">DND: Boosting Large Language Models with Dynamic Nested Depth</div>
@@ -152,10 +149,10 @@ If you are interested in my research or potential collaborations, please feel fr
   </div>
 </div>
 
-<!-- Paper 3: T-PAMI -->
+<!-- Paper 3 -->
 <div class="pub-card">
   <div class="pub-img">
-    <img src="/images/main_mecd2.png" alt="MECD+">
+    <img src="../main_mecd2.png" alt="MECD+">
   </div>
   <div class="pub-content">
     <div class="pub-title">MECD+: Unlocking Event-Level Causal Graph Discovery for Video Reasoning</div>
@@ -170,10 +167,10 @@ If you are interested in my research or potential collaborations, please feel fr
   </div>
 </div>
 
-<!-- Paper 4: T-CSVT -->
+<!-- Paper 4 -->
 <div class="pub-card">
   <div class="pub-img">
-    <img src="/images/main_csta.png" alt="CSTA">
+    <img src="../main_csta.png" alt="CSTA">
   </div>
   <div class="pub-content">
     <div class="pub-title">CSTA: Spatial-Temporal Causal Adaptive Learning for Exemplar-Free Video Class-Incremental Learning</div>
@@ -190,12 +187,8 @@ If you are interested in my research or potential collaborations, please feel fr
 
 ---
 
-## 📊 Academic Service
+## 📊 Service
 
-**Conference Reviewer**
-*   **2026**: ICLR, CVPR, ECCV, ICML, ICME
-*   **2025**: ICLR, CVPR, ICCV, NeurIPS, AAAI, ICME, PRCV
-
-**Journal Reviewer**
-*   Journal of Visual Communication and Image Representation (JVCI)
-*   Signal Processing: Image Communication (SPIC)
+**Reviewer**
+*   **Conference**: ICLR 2026, CVPR 2026, ECCV 2026, ICML 2026, ICME 2026, ICLR 2025, CVPR 2025, ICCV 2025, NeurIPS 2025, AAAI 2025, PRCV 2025
+*   **Journal**: JVCI, SPIC
