@@ -127,5 +127,4 @@ My research focuses on:
 ## 📊 Academic Service
 
 **Reviewer for Top Conferences**
-*   **2026**: CVPR, ECCV, ICLR, ICML
-*   **2025**: CVPR, ICCV, NeurIPS, ICLR, AAAI
+* NeurIPS(2025, 2026), ICLR (2025, 2026), CVPR (2025, 2026), ICML (2026), ICCV (2025), ECCV (2026), AAAI (2025)
