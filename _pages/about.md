@@ -58,7 +58,7 @@ My research focuses on:
       <br>
       <strong>Tieyuan Chen</strong>, Huabin Liu, Tianyao He, Yihang Chen, Chaofan Gan, Xiao Ma, Cheng Zhong, Yang Zhang, Yingxue Wang, Hui Lin, Weiyao Lin
       <br>
-      <em>NeurIPS 2024</em> <span style="color:#d9534f; font-weight:bold;">(Spotlight, Top 2.4%)</span>
+      <em>Conference on Neural Information Processing Systems (NeurIPS), 2024</em> <span style="color:#d9534f; font-weight:bold;">(Spotlight, Top 2.4%)</span>
       <br>
       <a href="https://arxiv.org/abs/2409.17647"><img src="https://img.shields.io/badge/arXiv-2409.17647-b31b1b.svg?logo=arXiv" alt="arXiv"></a>
       <a href="https://github.com/tychen-SJTU/MECD-Benchmark"><img src="https://img.shields.io/badge/Code-GitHub-black?logo=github" alt="GitHub"></a>
