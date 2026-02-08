@@ -15,7 +15,7 @@ Previously, I received my B.Eng. degree from **[Sichuan University](https://en.s
 
 I was selected for the Joint PhD Program at **[Beijing Zhongguancun Academy](https://www.bjzgca.edu.cn/en/)** (Sep. 2024 – June 2028).
 
-Currently, I am a Research Intern at **AGI Center, Ant Research Institute** (Mar. 2025 – Present), working under the supervision of [Jianguo Li](https://sites.google.com/site/leeplus/), [Tao Lin](https://tlin-taolin.github.io/), [Haoxing Chen](https://chenhaoxing.github.io/), and [Huabin Liu](https://r00kie-liu.github.io/).
+Currently, I am a Research Intern at **[AGI Center, Ant Research Institute](https://www.antresearch.com/)** (Mar. 2025 – Present), working under the supervision of [Jianguo Li](https://sites.google.com/site/leeplus/), [Tao Lin](https://tlin-taolin.github.io/), [Haoxing Chen](https://chenhaoxing.github.io/), and [Huabin Liu](https://r00kie-liu.github.io/).
 
 ---
 
