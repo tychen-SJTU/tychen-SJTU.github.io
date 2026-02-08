@@ -126,23 +126,13 @@ My research focuses on:
 
 ## 📊 Academic Service
 
-### Reviewer
+**Reviewer for Conferences**
+*   **2026**: CVPR, ECCV, ICLR, ICML, ICME
+*   **2025**: CVPR, ICCV, NeurIPS, ICLR, AAAI, ICME, PRCV
 
-**Conferences (2026)**  
-- ICLR 2026  
-- CVPR 2026  
-- ECCV 2026  
-- ICML 2026  
-- ICME 2026  
-
-**Conferences (2025)**  
-- ICLR 2025  
-- CVPR 2025  
-- ICCV 2025  
-- NeurIPS 2025  
-- AAAI 2025  
-- ICME 2025  
-- PRCV 2025  
+**Reviewer for Journals**
+*   Journal of Visual Communication and Image Representation (JVCIR)
+*   Signal Processing: Image Communication (SPIC)
 
 **Journals**  
 - Journal of Visual Communication and Image Representation (JVCI)  
