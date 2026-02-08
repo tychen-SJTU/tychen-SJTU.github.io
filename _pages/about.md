@@ -13,7 +13,9 @@ Hello! I am **Tieyuan Chen**, a third-year Ph.D. student (2023–present) at **[
 
 Previously, I received my B.Eng. degree from **[Sichuan University](https://en.scu.edu.cn/)**, **[College of Electronics and Information Engineering (CEIE)](https://eie.scu.edu.cn/eneieen/)** (2019–2023), ranking **1 / 29**.
 
-I am also a Research Intern (RI) at **Beijing Zhongguancun Academy** and **Alibaba Ant Group**.
+I was selected for the Joint PhD Program at **[Beijing Zhongguancun Academy](https://www.bjzgca.edu.cn/en/)** (Sep. 2024 – June 2028).
+
+Currently, I am a Research Intern at **AGI Center, Ant Research Institute** (Mar. 2025 – Present), working under the supervision of [Jianguo Li](https://sites.google.com/site/leeplus/), [Tao Lin](https://tlin-taolin.github.io/), [Haoxing Chen](https://chenhaoxing.github.io/), and [Huabin Liu](https://r00kie-liu.github.io/).
 
 ---
 
@@ -34,8 +36,8 @@ My research focuses on:
 
 - **China National Scholarship** (2021) — *Top 1%*
 - **China National Scholarship** (2022) — *Top 1%*
-- **Sichuan University Comprehensive Special Scholarship** (2022) — *Top 1‰*
-- **Sichuan University Hundred Excellent Student** (2022) — *Top 2‰*
+- **Sichuan University Comprehensive Special Scholarship** (2022) — *Top 0.1%*
+- **Sichuan University Hundred Excellent Student** (2022) — *Top 0.2%*
 - **Sichuan Province Outstanding Graduate** (2023) — *Top 3%*
 
 ---
