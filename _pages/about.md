@@ -134,7 +134,7 @@ My research focuses on:
 
 - **[LLaDA-MoE: A Sparse MoE Diffusion Language Model](https://huggingface.co/inclusionAI/LLaDA-MoE-7B-A1B-Instruct)**
   <br> **Role:** Contributor (*Megatron AI infra*) | *Sep. 2029*
-  <br> <a href="https://huggingface.co/inclusionAI/LLaDA-MoE-7B-A1B-Instruct"><img src="https://img.shields.io/badge/Model-HuggingFace-FFD21E?logo=huggingface&logoColor=black" alt="HuggingFace"></a>
+  <br> <a href="https://arxiv.org/pdf/2509.24389"><img src="https://img.shields.io/badge/arXiv-2509.24389-b31b1b.svg?logo=arXiv" alt="arXiv"></a> <a href="https://huggingface.co/inclusionAI/LLaDA-MoE-7B-A1B-Instruct"><img src="https://img.shields.io/badge/Model-HuggingFace-FFD21E?logo=huggingface&logoColor=black" alt="HuggingFace"></a>
 
 - **[DND: Boosting Large Language Models with Dynamic Nested Depth](https://arxiv.org/pdf/2510.11001)**
   <br> **Role:** Independent First Author | *Oct. 2025*
