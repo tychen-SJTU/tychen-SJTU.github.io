@@ -126,7 +126,7 @@ My research focuses on:
 
 ## 📑 Technical Reports
 
-*Since March 2025, I have been actively participating in cutting-edge projects at **inclusion AI**. Below are the technical reports and open-source models I have contributed to during this period:*
+*Since March 2025, I have been actively participating in many AR-Based LLM, Diffusion-Based LLM, Diffusion-Based VLM researches at **inclusion AI**. Below are the technical reports and open-source models I have contributed to during this period:*
 
 - **[LLaDA2.0-Uni: Unifying Multimodal Understanding and Generation with Diffusion Large Language Model](https://arxiv.org/pdf/2604.20796)**
   <br> **Role:** Contributor (*Mask Token Reweighting Loss & Data Processing*) | *Apr. 2026*
