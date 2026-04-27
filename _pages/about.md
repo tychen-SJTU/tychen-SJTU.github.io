@@ -147,7 +147,7 @@ My research focuses on:
   <br> *Proposes a novel MoE architecture utilizing adjugate experts to achieve better parameter efficiency and overall model performance.*
   <br> **Role:** Core Contributor | *Aug. 2025*
   <br> <a href="https://arxiv.org/pdf/2508.07785"><img src="https://img.shields.io/badge/arXiv-2508.07785-b31b1b.svg?logo=arXiv" alt="arXiv"></a>
----
+
 
 ## 📊 Academic Service
 
