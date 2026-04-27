@@ -129,21 +129,24 @@ My research focuses on:
 *Since March 2025, I have been actively participating in many **AR-Based LLM, Diffusion-Based LLM, Diffusion-Based VLM** researches at **inclusion AI**. Below are the technical reports and open-source models I have contributed to during this period:*
 
 - **[LLaDA2.0-Uni: Unifying Multimodal Understanding and Generation with Diffusion Large Language Model](https://arxiv.org/pdf/2604.20796)**
+  <br> *LLaDA2.0-Uni is a unified discrete diffusion language model, achieving performance comparable to specialized vision-language models while enabling efficient inference and high-fidelity image generation.*
   <br> **Role:** Contributor (*Mask Token Reweighting Loss & Data Processing*) | *Apr. 2026*
   <br> <a href="https://arxiv.org/pdf/2604.20796"><img src="https://img.shields.io/badge/arXiv-2604.20796-b31b1b.svg?logo=arXiv" alt="arXiv"></a> <a href="https://huggingface.co/inclusionAI/LLaDA2.0-Uni"><img src="https://img.shields.io/badge/Model-HuggingFace-FFD21E?logo=huggingface&logoColor=black" alt="HuggingFace"></a>
 
 - **[LLaDA-MoE: A Sparse MoE Diffusion Language Model](https://huggingface.co/inclusionAI/LLaDA-MoE-7B-A1B-Instruct)**
+  <br> *The first open-source Mixture-of-Experts (MoE) diffusion large language model, pre-trained from scratch on approximately 20 trillion tokens.*
   <br> **Role:** Contributor (*Megatron AI infra*) | *Oct. 2025*
   <br> <a href="https://arxiv.org/pdf/2509.24389"><img src="https://img.shields.io/badge/arXiv-2509.24389-b31b1b.svg?logo=arXiv" alt="arXiv"></a> <a href="https://huggingface.co/inclusionAI/LLaDA-MoE-7B-A1B-Instruct"><img src="https://img.shields.io/badge/Model-HuggingFace-FFD21E?logo=huggingface&logoColor=black" alt="HuggingFace"></a>
 
 - **[DND: Boosting Large Language Models with Dynamic Nested Depth](https://arxiv.org/pdf/2510.11001)**
+  <br> *Improves LLM inference efficiency and reasoning capabilities by dynamically adjusting compute depth via a novel nested architecture.*
   <br> **Role:** Independent First Author | *Sep. 2025*
   <br> <a href="https://arxiv.org/pdf/2510.11001"><img src="https://img.shields.io/badge/arXiv-2510.11001-b31b1b.svg?logo=arXiv" alt="arXiv"></a>
 
 - **[Grove MoE: Towards Efficient and Superior MoE LLMs with Adjugate Experts](https://arxiv.org/pdf/2508.07785)**
+  <br> *Proposes a novel MoE architecture utilizing adjugate experts to achieve better parameter efficiency and overall model performance.*
   <br> **Role:** Core Contributor | *Aug. 2025*
   <br> <a href="https://arxiv.org/pdf/2508.07785"><img src="https://img.shields.io/badge/arXiv-2508.07785-b31b1b.svg?logo=arXiv" alt="arXiv"></a>
-
 ---
 
 ## 📊 Academic Service
