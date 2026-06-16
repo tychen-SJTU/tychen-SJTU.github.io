@@ -95,7 +95,7 @@ My research focuses on:
       <br>
       <strong>Tieyuan Chen</strong>, Huabin Liu, Yi Wang, Yihang Chen, Tianyao He, Chaofan Gan, Huanyu He, Weiyao Lin
       <br>
-      <em>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</em>
+      <em>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2025</em>
       <br>
       <a href="https://arxiv.org/abs/2501.07227"><img src="https://img.shields.io/badge/arXiv-2501.07227-b31b1b.svg?logo=arXiv" alt="arXiv"></a>
       <a href="https://github.com/tychen-SJTU/MECD-Benchmark"><img src="https://img.shields.io/badge/Code-GitHub-black?logo=github" alt="GitHub"></a>
@@ -105,7 +105,7 @@ My research focuses on:
   <!-- Paper 4: IJCV 2026 -->
   <tr>
     <td style="padding:20px;width:30%;vertical-align:middle">
-      <img src="../main_implicit.png" alt="Implicit VideoQA" style="width:100%; max-width:250px; border-radius:5px; box-shadow:0 2px 5px rgba(0,0,0,0.1)">
+      <img src="../main_ivqa.png" alt="Implicit VideoQA" style="width:100%; max-width:250px; border-radius:5px; box-shadow:0 2px 5px rgba(0,0,0,0.1)">
     </td>
     <td style="padding:20px;width:70%;vertical-align:middle">
       <a href="https://arxiv.org/abs/2506.07811">
@@ -133,7 +133,7 @@ My research focuses on:
       <br>
       <strong>Tieyuan Chen</strong>, Huabin Liu, Chern Hong Lim, John See, Xing Gao, Junhui Hou, Weiyao Lin
       <br>
-      <em>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</em>
+      <em>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2025</em>
       <br>
       <a href="https://arxiv.org/abs/2501.07236"><img src="https://img.shields.io/badge/arXiv-2501.07236-b31b1b.svg?logo=arXiv" alt="arXiv"></a>
       <a href="https://github.com/tychen-SJTU/CSTA"><img src="https://img.shields.io/badge/Code-GitHub-black?logo=github" alt="GitHub"></a>
