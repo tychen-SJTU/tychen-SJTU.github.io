@@ -9,7 +9,7 @@ redirect_from:
 
 ## 👋 About Me
 
-Hello! I am **Tieyuan Chen**, a third-year Ph.D. student (2023–present) at **[Shanghai Jiao Tong University](https://en.sjtu.edu.cn/)**, **[School of Electronic Information and Electrical Engineering (SEIEE)](https://english.seiee.sjtu.edu.cn/)**, advised by Prof. **[Weiyao Lin](https://weiyaolin.github.io/)**. To date, during my Ph.D. studies, I have published **4 first-author papers** (8 papers in total), including top-tier venues such as **T-PAMI * 2, ICLR * 2, NeurIPS * 2, ICML, and T-CSVT**.
+Hello! I am **Tieyuan Chen**, a third-year Ph.D. student (2023–present) at **[Shanghai Jiao Tong University](https://en.sjtu.edu.cn/)**, **[School of Electronic Information and Electrical Engineering (SEIEE)](https://english.seiee.sjtu.edu.cn/)**, advised by Prof. **[Weiyao Lin](https://weiyaolin.github.io/)**. To date, during my Ph.D. studies, I have published **5 first-author papers** (9 papers in total), including top-tier venues such as **T-PAMI * 2, IJCV, ICLR * 2, NeurIPS * 2, ICML, and T-CSVT**.
 
 Previously, I received my B.Eng. degree from **[Sichuan University](https://en.scu.edu.cn/)**, **[College of Electronics and Information Engineering (CEIE)](https://eie.scu.edu.cn/eneieen/)** (2019–2023), ranking **1 / 29**.
 
@@ -102,7 +102,26 @@ My research focuses on:
     </td>
   </tr>
 
-  <!-- Paper 4: TCSVT -->
+  <!-- Paper 4: IJCV 2026 -->
+  <tr>
+    <td style="padding:20px;width:30%;vertical-align:middle">
+      <img src="../main_implicit.png" alt="Implicit VideoQA" style="width:100%; max-width:250px; border-radius:5px; box-shadow:0 2px 5px rgba(0,0,0,0.1)">
+    </td>
+    <td style="padding:20px;width:70%;vertical-align:middle">
+      <a href="https://arxiv.org/abs/2506.07811">
+        <span style="font-weight:bold; font-size:1.1em;">Looking Beyond Visible Cues: Implicit Video Question Answering via Dual-Clue Reasoning</span>
+      </a>
+      <br>
+      <strong>Tieyuan Chen</strong>, Huabin Liu, Yi Wang, Chaofan Gan, Mingxi Lyu, Ziran Qin, Shijie Li, Liquan Shen, Junhui Hou, Zheng Wang, Weiyao Lin
+      <br>
+      <em>International Journal of Computer Vision (IJCV), 2026</em>
+      <br>
+      <a href="https://arxiv.org/abs/2506.07811"><img src="https://img.shields.io/badge/arXiv-2506.07811-b31b1b.svg?logo=arXiv" alt="arXiv"></a>
+      <a href="https://github.com/tychen-SJTU/Implicit-VideoQA"><img src="https://img.shields.io/badge/Code-GitHub-black?logo=github" alt="GitHub"></a>
+    </td>
+  </tr>
+
+  <!-- Paper 5: TCSVT -->
   <tr>
     <td style="padding:20px;width:30%;vertical-align:middle">
       <img src="../main_csta.png" alt="CSTA" style="width:100%; max-width:250px; border-radius:5px; box-shadow:0 2px 5px rgba(0,0,0,0.1)">
@@ -126,7 +145,7 @@ My research focuses on:
 
 ## 📑 Technical Reports
 
-*Since March 2025, I have been actively participating in many **AR-Based LLM, Diffusion-Based LLM, Diffusion-Based VLM** researches at **inclusion AI**. Below are the technical reports and open-source models I have contributed to during this period:*
+*Since March 2025, I have been actively participating in many **AR-Based LLM, Diffusion-Based LLM, Diffusion-Based VLM** researches at **inclusion AI**. Below the technical reports and open-source models I have contributed to during this period:*
 
 - **[LLaDA2.0-Uni: Unifying Multimodal Understanding and Generation with Diffusion Large Language Model](https://arxiv.org/pdf/2604.20796)**
   <br> *LLaDA2.0-Uni is a unified discrete diffusion language model, achieving performance comparable to specialized vision-language models while enabling efficient inference and high-fidelity image generation.*
