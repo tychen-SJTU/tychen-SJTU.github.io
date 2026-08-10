@@ -13,7 +13,7 @@ Hello! I am **Tieyuan Chen**, a third-year Ph.D. student (2023–present) at **[
 
 Previously, I received my B.Eng. degree from **[Sichuan University](https://en.scu.edu.cn/)**, **[College of Electronics and Information Engineering (CEIE)](https://eie.scu.edu.cn/eneieen/)** (2019–2023), ranking **1 / 29**.
 
-I was selected for the Joint PhD Program at **[Beijing Zhongguancun Academy](https://www.bjzgca.edu.cn/en/)** (Sep. 2024 – June 2028).
+I was selected for the Joint PhD Program at **[Beijing Zhongguancun Academy](https://www.bjzgca.edu.cn/en/)** (Sep. 2024 – Present).
 
 Currently, I am a Research Intern at **[AGI Center, Ant Research Institute](https://www.antresearch.com/)** (Mar. 2025 – Present), working under the supervision of [Jianguo Li](https://sites.google.com/site/leeplus/), [Tao Lin](https://tlin-taolin.github.io/), [Haoxing Chen](https://chenhaoxing.github.io/), and [Huabin Liu](https://r00kie-liu.github.io/).
 
@@ -148,22 +148,22 @@ My research focuses on:
 *Since March 2025, I have been actively participating in many **AR-Based LLM, Diffusion-Based LLM, Diffusion-Based VLM** researches at **inclusion AI**. Below the technical reports and open-source models I have contributed to during this period:*
 
 - **[LLaDA2.0-Uni: Unifying Multimodal Understanding and Generation with Diffusion Large Language Model](https://arxiv.org/pdf/2604.20796)**
-  <br> *LLaDA2.0-Uni is a unified discrete diffusion language model, achieving performance comparable to specialized vision-language models while enabling efficient inference and high-fidelity image generation.*
-  <br> **Role:** Contributor (*Mask Token Reweighting Loss & Data Processing*) | *Apr. 2026*
+  <br> *LLaDA2.0-Uni is the first scaled unified discrete diffusion large language model (MoE 16B-A1B).*
+  <br> **Role:** Core Contributor (*Propose the Mask Token Reweighting Loss & Multi-modal Data Pre-processing*) | *Apr. 2026*
   <br> <a href="https://arxiv.org/pdf/2604.20796"><img src="https://img.shields.io/badge/arXiv-2604.20796-b31b1b.svg?logo=arXiv" alt="arXiv"></a> <a href="https://huggingface.co/inclusionAI/LLaDA2.0-Uni"><img src="https://img.shields.io/badge/Model-HuggingFace-FFD21E?logo=huggingface&logoColor=black" alt="HuggingFace"></a>
 
 - **[LLaDA-MoE: A Sparse MoE Diffusion Language Model](https://huggingface.co/inclusionAI/LLaDA-MoE-7B-A1B-Instruct)**
-  <br> *The first open-source Mixture-of-Experts (MoE) diffusion large language model, pre-trained from scratch on approximately 20 trillion tokens.*
-  <br> **Role:** Contributor (*Megatron AI infra*) | *Oct. 2025*
+  <br> *The first open-source Mixture-of-Experts (MoE) diffusion large language model (MoE 7B-A1B).*
+  <br> **Role:** Contributor (*Megatron AI Infra Support*) | *Oct. 2025*
   <br> <a href="https://arxiv.org/pdf/2509.24389"><img src="https://img.shields.io/badge/arXiv-2509.24389-b31b1b.svg?logo=arXiv" alt="arXiv"></a> <a href="https://huggingface.co/inclusionAI/LLaDA-MoE-7B-A1B-Instruct"><img src="https://img.shields.io/badge/Model-HuggingFace-FFD21E?logo=huggingface&logoColor=black" alt="HuggingFace"></a>
 
 - **[DND: Boosting Large Language Models with Dynamic Nested Depth](https://arxiv.org/pdf/2510.11001)**
-  <br> *Improves LLM inference efficiency and reasoning capabilities by dynamically adjusting compute depth via a novel nested architecture.*
+  <br> *The first scaled method which Improves LLM reasoning capabilities by dynamically adjusting compute depth via a novel nested architecture (MoE 30B-A3B).*
   <br> **Role:** Independent First Author | *Sep. 2025*
   <br> <a href="https://arxiv.org/pdf/2510.11001"><img src="https://img.shields.io/badge/arXiv-2510.11001-b31b1b.svg?logo=arXiv" alt="arXiv"></a>
 
 - **[Grove MoE: Towards Efficient and Superior MoE LLMs with Adjugate Experts](https://arxiv.org/pdf/2508.07785)**
-  <br> *Proposes a novel MoE architecture utilizing adjugate experts to achieve better parameter efficiency and overall model performance.*
+  <br> *A novel MoE architecture utilizing adjugate experts to achieve better parameter efficiency and overall model performance (MoE 33B-A3B).*
   <br> **Role:** Core Contributor | *Aug. 2025*
   <br> <a href="https://arxiv.org/pdf/2508.07785"><img src="https://img.shields.io/badge/arXiv-2508.07785-b31b1b.svg?logo=arXiv" alt="arXiv"></a>
 
@@ -171,4 +171,4 @@ My research focuses on:
 ## 📊 Academic Service
 
 **Reviewer for Top Conferences**
-* NeurIPS (2025, 2026), ICLR (2025, 2026), ICML (2026), CVPR (2025, 2026), ICCV (2025), ECCV (2026), AAAI (2025, 2026), BMVC (2026)
+* NeurIPS (2025, 2026), ICLR (2025, 2026), ICML (2025, 2026), CVPR (2025, 2026), AAAI (2025, 2026), ICCV (2025), ECCV (2026), BMVC (2026)
