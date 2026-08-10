@@ -24,7 +24,7 @@ Currently, I am a Research Intern at **[AGI Center, Ant Research Institute](http
 My research focuses on:
 
 - 🎥 **Video Understanding & Video Reasoning**
-- 🧠 **Large Language Models (LLMs) & Multimodal LLMs (MLLMs)**
+- 🧠 **Large Language Models (LLMs) & Multimodal LLMs (MLLMs), Especially MoE Architecture**
 - 🔗 **Causal Reasoning and Event-level Modeling**
 
 📫 Feel free to reach out via email:  
