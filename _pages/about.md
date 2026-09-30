@@ -34,6 +34,7 @@ My research focuses on:
 
 ## 🥇 Honors and Awards
 
+-**2026 China Society of Image and Graphics (CSIG) Doctoral Student Youth Program**
 - **China National Scholarship** (2021) — *Top 1%*
 - **China National Scholarship** (2022) — *Top 1%*
 - **Sichuan University Comprehensive Special Scholarship** (2022) — *Top 0.1%*
