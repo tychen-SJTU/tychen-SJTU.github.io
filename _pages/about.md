@@ -13,7 +13,7 @@ Hello! I am **Tieyuan Chen**, a 4th-year Ph.D. student (2023–present) at **[Sh
 
 Previously, I received my B.Eng. degree from **[Sichuan University](https://en.scu.edu.cn/)**, **[College of Electronics and Information Engineering (CEIE)](https://eie.scu.edu.cn/eneieen/)** (2019–2023), ranking **1 / 29**.
 
-Currently, I am a Research Intern at **[AGI Center, Ant Research Institute](https://www.antresearch.com/)** (Mar. 2025 – Present), working under the supervision of [Jianguo Li](https://sites.google.com/site/leeplus/), [Tao Lin](https://tlin-taolin.github.io/), [Haoxing Chen](https://chenhaoxing.github.io/), and [Huabin Liu](https://r00kie-liu.github.io/).
+Currently, I am a Research Intern at **[AGI Center, Ant Research Institute](https://www.antresearch.com/)** (Mar. 2025 – Present), working under the supervision of [Jianguo Li](https://sites.google.com/site/leeplus/) and [Huabin Liu](https://r00kie-liu.github.io/).
 
 ---
 
