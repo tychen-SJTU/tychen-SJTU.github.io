@@ -10,9 +10,7 @@ redirect_from:
 ## 👋 About Me
 
 Hello! I am **Tieyuan Chen**, a 4th-year Ph.D. student (2023–present) at **[Shanghai Jiao Tong University](https://en.sjtu.edu.cn/)**, **[School of Electronic Information and Electrical Engineering (SEIEE)](https://english.seiee.sjtu.edu.cn/)**, advised by Prof. **[Weiyao Lin](https://weiyaolin.github.io/)**. To date, during my Ph.D. studies, I have published **5 first-author papers** (11 papers in total), including top-tier venues such as **T-PAMI * 2, IJCV, ICLR * 2, NeurIPS * 2, ICML, T-CSVT, EMNLP, and ECCV**. In addition, I have contributed to the releases of two foundation models, **LLaDA-MoE** and **LLaDA 2.0-uni**.
-
 Previously, I received my B.Eng. degree from **[Sichuan University](https://en.scu.edu.cn/)**, **[College of Electronics and Information Engineering (CEIE)](https://eie.scu.edu.cn/eneieen/)** (2019–2023), ranking **1 / 29**.
-
 Currently, I am a Research Intern at **[AGI Center, Ant Research Institute](https://www.antresearch.com/)** (Mar. 2025 – Present), working under the supervision of [Jianguo Li](https://sites.google.com/site/leeplus/) and [Huabin Liu](https://r00kie-liu.github.io/).
 
 ---
